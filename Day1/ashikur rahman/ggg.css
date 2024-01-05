@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+    color:blue;
+    text-decoration: underline;
+}
+p{
+    font-size: 30px;
+    color:blue;
+}
+.giko{
+    text-align: center;
+
+}.koko{
+    text-align: center;
+    column-rule-color: blue;
+}
+#buton:hover{
+    background-color: blue;
+
+}
+body{
+background-color:cornsilk ;
+}
