@@ -1,0 +1,20 @@
+@media screen and (max-width:600px) {
+.nav-header{
+   flex-direction:column;
+   margin:auto;
+}
+.homer{
+   flex-direction:column;
+}
+.paragraph{
+   flex-direction: column;
+}
+.text-center{
+flex-direction: column;
+}
+.button-section{
+   flex-direction: column;}
+.section-p {
+   flex-direction: column;
+}
+}
